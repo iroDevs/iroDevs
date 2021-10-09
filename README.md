@@ -1,11 +1,10 @@
-<h1> Hi! My name is Pedro. </h1>
+<h1 class="o"> Hi! My name is Pedro. </h1>
 
 <div>
+  <br>
   <a href="https://github.com/iroDevs">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=iroDevs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iroDevs&layout=compact&langs_count=7&theme=react" />
-
-
+  <img height="180em" width="400px"  align="center" src="https://github-readme-stats.vercel.app/api?username=iroDevs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="400px"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iroDevs&layout=compact&langs_count=7&theme=react" />
 </div>
  <br>
 <div  align="center"> 
