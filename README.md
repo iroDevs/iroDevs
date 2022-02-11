@@ -27,4 +27,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <h2 style="color red">Os projetos da trybe deveram ser acessados pelo pull Request "PedroLoures"</h2>
  
