@@ -28,5 +28,5 @@
  
 </div>
   
-  <h2 style="color red">Os projetos da trybe deveram ser acessados pelo pull Request "PedroLoures"</h2>
+  <h2 style="color red">Os projetos da trybe deveram ser acessados pela Branch "PedroLoures"</h2>
  
