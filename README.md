@@ -3,6 +3,12 @@
 <h1 class="o"> Hi! My name is Pedro. </h1>
 <h2>welcome to my gitHub , I have professional experience , and I really like to learn new technologies</h2>
 
+<ul>
+<li>Trybe Student</li>
+<li>Computer Technician</li>
+<li>Web Developer</li>
+</ul>
+
 <div>
   <br>
   <a href="https://github.com/iroDevs">
@@ -36,5 +42,5 @@
  
 </div>
   
-  <h2 style="color red">Os projetos da trybe deveram ser acessados pela Branch "PedroLoures"</h2>
+  
  
