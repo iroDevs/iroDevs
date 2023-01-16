@@ -9,6 +9,8 @@
 <li>Web Developer</li>
 </ul>
 
+<p> Concluí o curso da Trybe e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Possuo 7 meses de experiência profissional em Back-end.</p>
+
 <div>
   <br>
   <a href="https://github.com/iroDevs">
