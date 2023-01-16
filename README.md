@@ -1,7 +1,7 @@
 
 
-<h1 class="o"> Hi! My name is Pedro. </h1>
-<h2>welcome to my gitHub , I have professional experience , and I really like to learn new technologies</h2>
+<h1 class="o"> Olá! Meu nome é Pedro. </h1>
+<h2> Bem-vindo ao meu GitHub, tenho experiência profissional e adoro aprender novas tecnologias. </h2>
 
 <ul>
 <li>Trybe Student</li>
