@@ -2,6 +2,9 @@
 
 <h1 class="o"> Olá! Meu nome é Pedro. </h1>
 <h2> Bem-vindo ao meu GitHub, tenho experiência profissional e adoro aprender novas tecnologias. </h2>
+<h3>Email: pedrohenriquelouresoliveira@gmail.com</h3>
+<h3>cel: (32) 9 99359393</h3>
+
 
 <ul>
 <li>Trybe Student</li>
