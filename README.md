@@ -1,7 +1,7 @@
 
 
 <h1 class="o"> Olá! Meu nome é Pedro. </h1>
-<h2> Bem-vindo ao meu GitHub, tenho experiência profissional e adoro aprender novas tecnologias. </h2>
+<h2> Bem-vindo ao meu GitHub, tenho experiência profissional e Atualmente trabalho para PAGE SAÚDE e o COSEMS/MG </h2>
 <h3>Email: pedrohenriquelouresoliveira@gmail.com</h3>
 <h3>cel: (32) 9 99359393</h3>
 
@@ -12,9 +12,14 @@
 <li>Web Developer</li>
 </ul>
 
-<p> Concluí o curso da Trybe e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Possuo experiência profissional em Back-end e Front-end.</p>
+
+
+<p> Concluí o curso da Trybe e atualmente estou Trabalhando para a PAGE SAÚDE.</p>
+
+
 
 <div>
+  <img align="center" alt="Eu" height="200" width="180" src="https://github.com/user-attachments/assets/02bf34a1-3358-4e5c-aaef-36c4b760fe78"/>  
   <br>
   <a href="https://github.com/iroDevs">
   <img height="180em" width="400px"  align="center" src="https://github-readme-stats.vercel.app/api?username=iroDevs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -46,6 +51,9 @@
  
  
 </div>
-  
-  
+
  
+  
+
+ 
+
