@@ -20,7 +20,7 @@
 
 
 <div>
-  <img align="center" alt="Eu" height="200" width="180" src="https://github.com/user-attachments/assets/02bf34a1-3358-4e5c-aaef-36c4b760fe78"/>  
+  <img align="center" alt="Eu" height="300" width="230" src="https://github.com/user-attachments/assets/d82246b2-a0a7-4e6d-931b-480d578915e3"/>  
   <br>
   <a href="https://github.com/iroDevs">
   <img height="180em" width="400px"  align="center" src="https://github-readme-stats.vercel.app/api?username=iroDevs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -51,6 +51,7 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-loures-de-oliveira-5a97881b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
+
 </div>
 
  
