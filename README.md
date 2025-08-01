@@ -21,15 +21,6 @@
   <li>Rocktseat Web Developer</li>
 </ul>
 
-
-
-<div>
-  <img align="center" alt="Eu" height="300" width="230" src="https://github.com/user-attachments/assets/d82246b2-a0a7-4e6d-931b-480d578915e3"/>  
-  <br>
-  <a href="https://github.com/iroDevs">
-  <img height="180em" width="400px"  align="center" src="https://github-readme-stats.vercel.app/api?username=iroDevs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width="400px"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iroDevs&layout=compact&langs_count=7&theme=react" />
-</div>
  <br>
 <div  align="center"> 
    <h3 align="left">Languages and Tools:</h3>
