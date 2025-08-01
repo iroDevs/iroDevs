@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:87CEFA&height=230&section=header&text=Pedro&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&descSize=25&descAlignY=55&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenharia%20de%20Software)
 
 
 <h1 class="o"> Olá! Meu nome é Pedro. </h1>
@@ -50,17 +51,3 @@
      
      
     
-    
-</div>
-  <br>
-  <a href="https://www.linkedin.com/in/pedro-henrique-loures-de-oliveira-5a97881b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-
-</div>
-
- 
-  
-
- 
-
