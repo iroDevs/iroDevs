@@ -1,21 +1,26 @@
 
 
 <h1 class="o"> Olá! Meu nome é Pedro. </h1>
-<h2> Bem-vindo ao meu GitHub, Atualmente trabalho para PAGE SAÚDE e o COSEMS/MG </h2>
+<h2> Bem-vindo ao meu GitHub, Atualmente trabalho para FBRConsult</h2>
 <h3>Email: pedrohenriquelouresoliveira@gmail.com</h3>
 <h3>cel: (32) 9 99359393</h3>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5532999359393&text=Ol%C3%A1%20tenho%20uma%20oportunidade%20para%20voc%C3%AA...">Clique Aqui! e me mande uma messagem</a><br>
+<a target="_blank" href="https://portfolio-website-inky-mu.vercel.app/"> Portfólio Web / Apresentação
 
 <h4>Pontos de Apresentação</h4>
 <ul>
-<li>Trybe Student</li>
-<li>Computer Technician</li>
+<li>Desenvolvedor FullStack JS/TS</li>
+<li>Engenharia de Software</li>
 <li>Web Developer</li>
+<li>Mais de 2 anos de experiência</li>
 </ul>
 
-
-
-<p> Concluí o curso da Trybe e atualmente estou Trabalhando para a PAGE SAÚDE.</p>
+<h4>Certificados</h4>
+<ul>
+  <li>Engenharia de software - Descomplica (Belo Horizonte-MG)</li>
+  <li>Trybe Desenvolvedor FullStack </li>
+  <li>Rocktseat Web Developer</li>
+</ul>
 
 
 
