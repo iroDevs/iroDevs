@@ -1,7 +1,5 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:87CEFA&height=230&section=header&text=Pedro&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&descSize=25&descAlignY=55&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenharia%20de%20Software)
 
-
-<h1 class="o"> Olá! Meu nome é Pedro. </h1>
 <h2> Bem-vindo ao meu GitHub, Atualmente trabalho para FBRConsult</h2>
 <h3>Email: pedrohenriquelouresoliveira@gmail.com</h3>
 <h3>cel: (32) 9 99359393</h3>
